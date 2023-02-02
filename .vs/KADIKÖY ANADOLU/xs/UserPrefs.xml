@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{964ADD04-4EEF-43F1-9077-E0CF3EEC5C6B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KADIKÖY_220ANADOLU PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KADIKÖY ANADOLU/Homework.cs">
+    <Files>
+      <File FileName="KADIKÖY ANADOLU/Program.cs" Line="1" Column="1" />
+      <File FileName="KADIKÖY ANADOLU/Subject.cs" />
+      <File FileName="KADIKÖY ANADOLU/Teacher.cs" />
+      <File FileName="KADIKÖY ANADOLU/Classroom.cs" />
+      <File FileName="KADIKÖY ANADOLU/Student.cs" Line="19" Column="1" />
+      <File FileName="KADIKÖY ANADOLU/Homework.cs" Line="11" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KADIKÖY ANADOLU" expanded="True">
+            <Node name="KADIKÖY ANADOLU" expanded="True">
+              <Node name="Homework.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
