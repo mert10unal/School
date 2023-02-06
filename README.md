@@ -1,6 +1,6 @@
 # School
 
-Okul veritabanı için çözülmesi gereken problemler aşağıdaki gibidir : 
+The problems to solve about the school database are shown belove : 
 
 Design the database of Kadıköy Anatolian High School.
     The courses in the school have name, code, importance level.
@@ -15,6 +15,6 @@ Design the database of Kadıköy Anatolian High School.
     Homework is given at school. Assignments have a name, code and due date. An assignment
     can be given to many classes. One teacher prepares the assignment and assigns it to many classes.
 
-Çözüm olarak tasarlanan veritabanı şeması aşağıdaki gibidir : 
+As a result a database scheme is designed :
 
 ![Bildschirmfoto 2023-02-02 um 15 44 21](https://user-images.githubusercontent.com/120198895/216328544-07ac0c60-d27e-41df-9790-7acacc8c6a98.png)
